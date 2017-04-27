@@ -1,7 +1,7 @@
 ---
-title: Project evolution
+title: Project Evolution
 layout: default
-filename: evolution.md
+filename: evolution
 ---
 
 # Project Evolution/Narrative
@@ -24,7 +24,7 @@ With simple input, this version of the game served as a proof of concept of our 
 
 Our first attempt at autonomous control was to use a neural network to control the car. None of us had any experience with building a neural network to tackle this sort of task, so we devoted a significant amount of time to understanding how to make it work. At the same time, though, we kept working on the physics, graphics, and user input functions to ensure that we weren't blocked by a lack of progress on the neural network front.
 
-### :corn: The Corn Pivot :corn:
+### The Corn Pivot
 
 The first "pivot" in our project wasn't really a pivot - we hadn't decided on any particular thematic/aesthetic elements at the beginning of the project, so midway through the project, we spontaneously decided on a corn theme for the project. We created corn and barn sprites for the environment and created functions to randomly generate corn sprites.
 
