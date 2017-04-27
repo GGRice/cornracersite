@@ -1,3 +1,9 @@
+---
+title: Project evolution
+layout: default
+filename: evolution.md
+---
+
 # Project Evolution/Narrative
 
 We began this project with two intentions:

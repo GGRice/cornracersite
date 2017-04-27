@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
-BASE_PATH : /cornracersite
+show_downloads: false
