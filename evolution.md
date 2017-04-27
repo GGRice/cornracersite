@@ -1,7 +1,7 @@
 ---
 title: Project evolution
 layout: default
-filename: evolution.md
+filename: evolution
 ---
 
 # Project Evolution/Narrative

@@ -26,7 +26,7 @@
         {% endif %}
 
         {% for page in site.pages %}
-          <a href={{ page.filename | truncate: 3, ""}}>{{ page.title }}</a>
+          <a href={{ page.filename}}>{{ page.title }}</a>
         {% endfor %}
 
         {% if site.show_downloads %}
