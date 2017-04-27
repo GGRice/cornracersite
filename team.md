@@ -1,7 +1,7 @@
 ---
 title: Meet the Team
 layout: default
-filename: default
+filename: team
 ---
 
 # Meet the Team
