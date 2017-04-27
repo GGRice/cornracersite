@@ -10,6 +10,8 @@ filename: implementation
 ## Architecture
 We followed a standard Model View Controller (MVC) layout. The **Model** runs car physics, updates car position, and detects crashes. The **View** renders the background, foreground, and car. The **Controller** is split up into two parts, one for controlling the car and one for clicking buttons and drawing new track.
 
+![UML_Diagram](/assets/UMLDiagram2.png)
+
 ### Model
 The model runs a realistic physics simulation of a two tire model, similar to a bike that can't fall over. Tire - road dynamics are modeled, and realistic constants were selected from research papers on tire dynamics. The tire-road interaction can be easily explained as two forces, as seen in the image. The two forces are perpendicular to each other.
 ![tire_model](/assets/tire)
