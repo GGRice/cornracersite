@@ -1,6 +1,6 @@
 ## Hey
 ## We're Corn Racer
-![corn]({{ site.url }}/assets/corn.png "Corn")
+![corn](assets/corn.png)
 
 This is our site.
 
