@@ -59,10 +59,10 @@ If you choose to drive the car yourself you will be in complete control of the c
 Corn Racer is licensed under GNU GPLv3. For more information, reference the "LICENSE" file in the Corn Racer repository.
 
 ### Attributions
-- http://stackoverflow.com/questions/1436703
-- https://github.com//sd17spring/ToolBox-EvolutionaryAlgorithms
-- http://deap.gel.ulaval.ca/doc/dev/api/algo.html  
-- http://stackoverflow.com/questions/597369/how-to-create-ms-paint-clone-with-python-and-pygame
-- https://github.com/GGRice/InteractiveProgramming/blob/master/pong.py
-- https://www.pygame.org/project/2541
-- lodev.org/cgtutor/raycasting.html
+- [http://stackoverflow.com/questions/1436703](http://stackoverflow.com/questions/1436703)
+- [https://github.com//sd17spring/ToolBox-EvolutionaryAlgorithms](https://github.com//sd17spring/ToolBox-EvolutionaryAlgorithms)
+- [http://deap.gel.ulaval.ca/doc/dev/api/algo.html](http://deap.gel.ulaval.ca/doc/dev/api/algo.html)  
+- [http://stackoverflow.com/questions/597369/how-to-create-ms-paint-clone-with-python-and-pygame](http://stackoverflow.com/questions/597369/how-to-create-ms-paint-clone-with-python-and-pygame)
+- [https://github.com/GGRice/InteractiveProgramming/blob/master/pong.py](https://github.com/GGRice/InteractiveProgramming/blob/master/pong.py)
+- [https://www.pygame.org/project/2541](https://www.pygame.org/project/2541)
+- [http://lodev.org/cgtutor/raycasting.html](http://lodev.org/cgtutor/raycasting.html)
