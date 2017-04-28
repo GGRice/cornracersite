@@ -14,13 +14,10 @@
   text-shadow: 2px 2px black;
 }
 
-.wrapper h1 {
+.sidebar-title {
   color: black;
 }
 
-.wrapper h1:hover {
-  color: black;
-}
 
 body {
   margin: 0;
