@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+filename: index
+---
+
 # Corn Racer
 
 Welcome! This is our final project for Software Design, Spring 2017, at Olin College.
