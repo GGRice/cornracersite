@@ -34,7 +34,7 @@
         {% endif %}
 
         {% for page in site.pages %}
-          {% if page.name != 'index' %}
+          {% if page.filename != 'index' %}
             <p class="view"><a href={{page.filename}}>{{ page.title }}</a></p>
           {% endif %}
         {% endfor %}
