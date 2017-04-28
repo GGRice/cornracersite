@@ -1,6 +1,6 @@
 ---
 title: Results/Media
-layout: video
+layout: default
 filename: media
 ---
 
@@ -13,3 +13,5 @@ Check out our [Github repo](https://github.com/labseven/SoftDes-Final-Project) t
 ![Output image 2](assets/output2.png)
 
 # Project Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/986QFQm_fSU" frameborder="0" allowfullscreen></iframe>
