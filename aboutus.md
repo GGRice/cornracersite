@@ -24,7 +24,7 @@ filename: aboutus
 ### Gretchen
 <img src="assets/grice.jpg" style="width:300px; display:block; margin:auto;">
 **Learning goal:** Gain a better understanding of evolutionary algorithms and physics modeling.  
-**Fun fact:** Gretchen spirit animal is a bowl of plain oatmeal.
+**Fun fact:** Gretchen's spirit animal is a bowl of plain oatmeal.
 
 ### Matt
 <img src="assets/mbrucker.jpg" style="width:300px; display:block; margin:auto;">
