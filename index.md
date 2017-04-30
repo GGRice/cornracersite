@@ -29,20 +29,16 @@ We built corn racer for three main reasons:
 In order to run this program you must have Python3 installed on your computer. Along with Python3 you need a a few dependencies...
 
 ```
-pygame: $ sudo apt-get build-dep python-pygame  
-        $ sudo apt-get install python-dev  
+pygame, numpy, tkinter
+$ sudo apt install python-pygame python-dev python3-numpy python3-tk
 
-numpy: $ sudo apt-get install python3-numpy  
-
-tkinter: $ sudo apt-get install python3-tk   
-
-sudo pip install -r requirements.txt
+$ sudo pip install -r requirements.txt
 ```
 After installing these packages, go to the top of our github page (this page) and clone the repository or download the zip file (the green "clone or download" button). You then have the project on your computer with all the supporting class files.
 
 ## Usage
-To run code from terminal in Ubuntu, navigate to the proper folder and run the command "python3 evolution.py"  
-When window opens you will select how to run the simulator. You will have options of which map appears and how the car drives. You can either choose an existing track or chose to create your own map and you can choose whether to have the car drive autonomously or to drive the car yourself.  
+To run code from terminal in GNU/Linux, navigate to the proper folder and run the command "python3 evolution.py"  
+When the window opens you will select how to run the simulator. You will have options of which map appears and how the car drives. You can either choose an existing track or chose to create your own map and you can choose whether to have the car drive autonomously or to drive the car yourself.  
 
 ### Drawing a New Track
 Whenever you choose to "Make Your Own" track you will use the system like any other paint application. While left clicking, you will move the mouse in order to draw a track.
