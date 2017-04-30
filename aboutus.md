@@ -7,7 +7,7 @@ filename: aboutus
 # Meet the Team
 
 ### Adam
-<img src="assets/anovotny.png" style="width:300px; height:300px; display:block; margin:auto;"></img>
+<img src="assets/anovotny.png" style="width:300px; height:300px; display:block; margin:auto;">
 **Learning goal:** Learn how to genetically define how a car drives.
 
 ### Alex
